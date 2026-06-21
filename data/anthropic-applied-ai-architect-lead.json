@@ -30,6 +30,7 @@
   "show_manolobot": true,
   "cal_link": null,
   "cv_filename": "cv_en.pdf",
+  "cv_url": "https://www.alvarozamorano.com/cv-alvaro-zamorano.pdf",
   "source_repo": "https://github.com/Wcoach24/alvaro-landings",
   "generator_version": "JobHunter v2.1"
 }

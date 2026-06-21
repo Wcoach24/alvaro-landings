@@ -20,7 +20,8 @@ export type LandingData = {
   show_empresaai: boolean;
   show_manolobot: boolean;
   cal_link?: string;
-  cv_filename: string;
+  cv_filename: string;        // legacy: filename under /public/cv/
+  cv_url?: string;            // preferred: absolute URL (e.g. existing CV hosted elsewhere)
   source_repo?: string;
   generator_version: string;
 };

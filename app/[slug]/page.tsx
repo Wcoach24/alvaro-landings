@@ -22,11 +22,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   return {
     title: `${data.role} at ${data.company} — Álvaro Zamorano`,
     description: data.hero_subline,
-    openGraph: {
-      title: `${data.role} at ${data.company}`,
-      description: data.hero_subline,
-      type: 'website',
-    },
+    openGraph: { title: `${data.role} at ${data.company}`, description: data.hero_subline, type: 'website' },
   };
 }
 
@@ -39,7 +35,6 @@ export default function LandingPage({ params }: { params: { slug: string } }) {
   return (
     <>
       <style dangerouslySetInnerHTML={{ __html: brandCss(brand) }} />
-
       <main style={{ maxWidth: 900, margin: '0 auto', padding: 'clamp(20px, 4vw, 48px)' }}>
         <HeroLive
           company={data.company}
@@ -53,13 +48,8 @@ export default function LandingPage({ params }: { params: { slug: string } }) {
         />
         <Pitch pitch_oneliner={data.pitch_oneliner} role={data.role} />
         <JDMatch matches={data.jd_match} />
-        <LiveAgents
-          show_empresaai={data.show_empresaai}
-          show_manolobot={data.show_manolobot}
-          empresaai_url={data.empresaai_url}
-          manolobot_url={data.manolobot_url}
-        />
-        <CTA cal_link={data.cal_link} cv_filename={data.cv_filename} company={data.company} />
+        <LiveAgents show_empresaai={data.show_empresaai} show_manolobot={data.show_manolobot} empresaai_url={data.empresaai_url} manolobot_url={data.manolobot_url} />
+        <CTA cal_link={data.cal_link} cv_filename={data.cv_filename} cv_url={data.cv_url} company={data.company} />
         <Disclosure
           job_url={data.job_url}
           jd_seen_at={data.jd_seen_at}
