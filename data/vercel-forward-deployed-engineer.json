@@ -1,0 +1,35 @@
+{
+  "slug": "vercel-forward-deployed-engineer",
+  "company": "Vercel",
+  "role": "Forward Deployed Engineer",
+  "job_url": "https://job-boards.greenhouse.io/vercel/jobs/789",
+  "job_archetype": "ai_infra",
+  "location": "Remote (NYC / SF preferred)",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-21T12:00:00+00:00",
+  "landing_generated_at": "2026-06-21T12:41:00+00:00",
+  "build_minutes": 41,
+  "score": 9,
+  "score_breakdown": [
+    {"label": "title:forward-deployed", "points": 2},
+    {"label": "geo:US frontier", "points": 3},
+    {"label": "tech:LLM/agents", "points": 2},
+    {"label": "archetype:ai_infra", "points": 2}
+  ],
+  "hero_headline": "I ship Next.js apps to Vercel daily. Built this one 41 minutes ago.",
+  "hero_subline": "ManoloBot deploys one production app per day on your platform. I know where the friction is for customers shipping AI on the AI SDK. I want to help them ship faster.",
+  "pitch_oneliner": "Week 1: shadow two Vercel enterprise customers shipping AI SDK + v0 workflows, document the top 3 friction points, ship a v0 template that removes the biggest one.",
+  "jd_match": [
+    {"requirement": "Daily Next.js + AI SDK + Vercel production experience", "proof": "ManoloBot (manoloelrobot.com) — public robot that builds one Next.js app per day, all deployed to Vercel via token-based CI", "metric": "10+ apps live"},
+    {"requirement": "Customer-facing forward-deployed work", "proof": "Delivered GenAI implementations to F500 clients at Capgemini Invent + Head of Product at Olyverse", "metric": "50k+ users scaled"},
+    {"requirement": "Comfort with ambiguity + shipping pace", "proof": "empresaAI — 7-agent autonomous system, scoped + shipped + put in production solo", "metric": "~40h/week saved"}
+  ],
+  "empresaai_url": null,
+  "manolobot_url": null,
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}

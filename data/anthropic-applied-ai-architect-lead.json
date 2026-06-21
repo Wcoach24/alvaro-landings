@@ -1,0 +1,35 @@
+{
+  "slug": "anthropic-applied-ai-architect-lead",
+  "company": "Anthropic",
+  "role": "Applied AI Architect Lead",
+  "job_url": "https://job-boards.greenhouse.io/anthropic/jobs/4012345",
+  "job_archetype": "frontier_lab",
+  "location": "San Francisco, CA",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-21T12:00:00+00:00",
+  "landing_generated_at": "2026-06-21T12:47:00+00:00",
+  "build_minutes": 47,
+  "score": 10,
+  "score_breakdown": [
+    {"label": "title:lead/principal/staff", "points": 3},
+    {"label": "geo:US frontier lab", "points": 3},
+    {"label": "tech:LLM/agents/RAG", "points": 2},
+    {"label": "archetype:frontier_lab", "points": 2}
+  ],
+  "hero_headline": "Built this 47 min after Claude told me about your Applied AI Architect Lead role.",
+  "hero_subline": "I'm Álvaro. I already use Claude every day to run a 7-agent autonomous system in production. The MCP ecosystem you're shipping is the foundation I depend on — here's why I'd be useful in week 1.",
+  "pitch_oneliner": "Week 1: shadow a Forward Deployed eng on a real customer deployment, scope a deliverable that needs Claude + MCP + agent orchestration, ship it to that customer before Friday standup.",
+  "jd_match": [
+    {"requirement": "Production experience with Claude and multi-agent systems", "proof": "Built empresaAI — 7 specialized agents coordinated through a file-based state bus, in production 24/7 on a dedicated Mac Mini, all running on Claude API + MCP", "metric": "~40h/week saved"},
+    {"requirement": "Customer-facing AI delivery at enterprise scale", "proof": "Embedded LLMs into the recruitment workflow at Eurofirms (TOP-3 EU staffing firm, 500+ recruiters)", "metric": "−35% time-to-hire"},
+    {"requirement": "Translate strategy ↔ engineering for technical buyers", "proof": "Senior Consultant at Capgemini Invent delivering GenAI implementations to Fortune 500 clients + Head of Product at Olyverse (Geneva scaleup)", "metric": "50k+ users scaled"}
+  ],
+  "empresaai_url": null,
+  "manolobot_url": null,
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}

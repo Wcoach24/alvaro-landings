@@ -1,0 +1,35 @@
+{
+  "slug": "linear-founding-product-engineer",
+  "company": "Linear",
+  "role": "Founding Product Engineer, AI",
+  "job_url": "https://jobs.ashbyhq.com/linear/12345",
+  "job_archetype": "ai_native_product",
+  "location": "Remote, Europe",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-21T12:00:00+00:00",
+  "landing_generated_at": "2026-06-21T12:38:00+00:00",
+  "build_minutes": 38,
+  "score": 10,
+  "score_breakdown": [
+    {"label": "title:founding", "points": 3},
+    {"label": "geo:EU top-tier", "points": 1},
+    {"label": "tech:LLM/agents", "points": 2},
+    {"label": "archetype:ai_native_product", "points": 2}
+  ],
+  "hero_headline": "Built this 38 min after Linear's Founding Product Engineer JD hit my agent.",
+  "hero_subline": "I've used Linear since the Ralph version. I run my own 7-agent production system on Claude. This role is the intersection — here's how I'd ship in week 1.",
+  "pitch_oneliner": "Week 1: identify three friction points in current Linear AI features by talking to 5 power users, scope the smallest one that ships within sprint, build it as a feature flag.",
+  "jd_match": [
+    {"requirement": "Founding-engineer mindset on AI product surface", "proof": "Founded and shipped empresaAI — full-stack 7-agent system from scratch, in production 24/7", "metric": "0→1 solo"},
+    {"requirement": "TypeScript / React production experience", "proof": "ManoloBot ships one Next.js + TypeScript app per day to Vercel", "metric": "10+ apps live"},
+    {"requirement": "Direct customer interaction in product discovery", "proof": "Head of Product at Olyverse (Geneva) — scaled to 50k+ users by ruthless prioritization based on direct user research", "metric": "+22% retention"}
+  ],
+  "empresaai_url": null,
+  "manolobot_url": null,
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}
