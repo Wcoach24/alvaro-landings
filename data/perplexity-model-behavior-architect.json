@@ -1,0 +1,52 @@
+{
+  "slug": "perplexity-model-behavior-architect",
+  "company": "Perplexity",
+  "role": "Member of Technical Staff (Model Behavior Architect)",
+  "job_url": "https://jobs.ashbyhq.com/perplexity/9904db61-b8ca-4207-8f93-88ab6f0cd3fd",
+  "job_archetype": "ai_native_product",
+  "location": "San Francisco",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-22T18:56:00+00:00",
+  "landing_generated_at": "2026-06-22T19:15:00+00:00",
+  "build_minutes": 19,
+  "score": 10,
+  "score_breakdown": [
+    { "label": "title:lead/principal/staff/founding/head", "points": 3 },
+    { "label": "geo:US frontier lab", "points": 3 },
+    { "label": "tech:LLM/agents/RAG/voice", "points": 2 },
+    { "label": "archetype:ai_native_product", "points": 2 }
+  ],
+  "hero_headline": "An answer engine is only as good as how its agents behave. I architect that behavior — and I built this page 19 minutes after seeing the role.",
+  "hero_subline": "I run a fleet of autonomous agents in production: 7 specialized agents over a file-based bus, reading email every 2h and shipping real output via API. Model behavior, evals, and guardrails are the job I already do daily — for Perplexity I'd do it at frontier scale.",
+  "pitch_oneliner": "Week 1: instrument behavior evals on a live agent surface (Comet-style browse → act) and ship the first guardrail that moves a real metric — not a deck about one.",
+  "jd_match": [
+    {
+      "requirement": "Shape and evaluate model behavior across agentic, multi-step tasks",
+      "proof": "Production multi-agent system (empresaAI) — 7 agents coordinating over a file-based bus, with deterministic state machines and behavior guardrails so they act, not just chat.",
+      "metric": "~40h/week of manual ops replaced, 24/7 uptime"
+    },
+    {
+      "requirement": "Real-time RAG / retrieval-grounded answers",
+      "proof": "2 years shipping RAG + LLM features (OpenAI 3y, Anthropic 2y); retrieval-grounded agents that cite sources and degrade gracefully when retrieval fails.",
+      "metric": "2y RAG in production"
+    },
+    {
+      "requirement": "Builder who ships in weeks, not quarters",
+      "proof": "ManoloBot (manoloelrobot.com) — an autonomous robot that builds and deploys one production app per day, end to end, publicly.",
+      "metric": "1 shipped app / day, public"
+    },
+    {
+      "requirement": "Systems thinking + correctness under scale",
+      "proof": "MSc Industrial Engineering (UPM, Operations Research). I reason about agent behavior as a control problem: inputs, feedback loops, failure modes.",
+      "metric": "8y engineering, 5y leading teams"
+    }
+  ],
+  "empresaai_url": "https://github.com/Wcoach24",
+  "manolobot_url": "https://manoloelrobot.com",
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}
