@@ -1,0 +1,52 @@
+{
+  "slug": "perplexity-ai-software-engineer-agents",
+  "company": "Perplexity",
+  "role": "Member of Technical Staff (AI Software Engineer, Agents)",
+  "job_url": "https://jobs.ashbyhq.com/perplexity/4ab39122-1d15-4874-8ab7-c6a241472743",
+  "job_archetype": "ai_native_product",
+  "location": "San Francisco",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-23T11:38:49+00:00",
+  "landing_generated_at": "2026-06-23T11:48:00+00:00",
+  "build_minutes": 9,
+  "score": 10,
+  "score_breakdown": [
+    { "label": "title:lead/principal/staff/founding/head", "points": 3 },
+    { "label": "geo:US frontier lab", "points": 3 },
+    { "label": "tech:LLM/agents/RAG/voice", "points": 2 },
+    { "label": "archetype:ai_native_product", "points": 2 }
+  ],
+  "hero_headline": "Your Agents team builds agents that act, not chat. So do I, with 7 in production. I built this page 9 minutes after the role posted.",
+  "hero_subline": "The Comet vision is agents that navigate the world and do real work. My agents already read email, build a Next.js app, deploy it to Vercel and publish it, autonomously, every day, with Playwright driving the browser.",
+  "pitch_oneliner": "Week 1: take one Comet action that still needs a human, wrap it in a tool interface with a permission gate and an eval, and ship an agent that completes it end-to-end without supervision.",
+  "jd_match": [
+    {
+      "requirement": "Design AI agents that navigate the digital world and perform valuable units of work",
+      "proof": "empresaAI: 7 agents that read email, decide, build, deploy and publish over a file-based bus, with no human in the loop.",
+      "metric": "24/7 in production"
+    },
+    {
+      "requirement": "Browser technologies (CDP, Playwright, extension development)",
+      "proof": "ManoloBot drives Chromium with Playwright to record demos and validate every app it ships before it goes live.",
+      "metric": "1 app/day · 19+ live"
+    },
+    {
+      "requirement": "Context engineering and tool interfaces for frontier AI models",
+      "proof": "I build tool interfaces on the Claude API and MCP so agents call real functions with typed contracts, not free-text guesses.",
+      "metric": "2y agents · 5y Python"
+    },
+    {
+      "requirement": "Proficiency in Python (bonus points for TypeScript)",
+      "proof": "Python and TypeScript daily across empresaAI and ManoloBot; Next.js, Vercel and Supabase end to end.",
+      "metric": "5y Python · 3y React"
+    }
+  ],
+  "empresaai_url": "https://github.com/Wcoach24",
+  "manolobot_url": "https://manoloelrobot.com",
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}

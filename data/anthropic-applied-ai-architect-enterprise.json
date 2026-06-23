@@ -1,0 +1,51 @@
+{
+  "slug": "anthropic-applied-ai-architect-enterprise",
+  "company": "Anthropic",
+  "role": "Applied AI Architect, Enterprise Tech",
+  "job_url": "https://job-boards.greenhouse.io/anthropic/jobs/5065835008",
+  "job_archetype": "frontier_lab",
+  "location": "Boston, MA · New York City, NY · San Francisco, CA",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-23T11:38:49+00:00",
+  "landing_generated_at": "2026-06-23T11:47:00+00:00",
+  "build_minutes": 8,
+  "score": 7,
+  "score_breakdown": [
+    { "label": "title:architect/forward-deployed", "points": 2 },
+    { "label": "geo:US frontier lab", "points": 3 },
+    { "label": "tech:LLM/agents/RAG/voice", "points": 2 }
+  ],
+  "hero_headline": "Applied AI Architect is the job I already do: consultant by day, Claude builder by night. I built this page 8 minutes after the role surfaced.",
+  "hero_subline": "This role needs someone who can move from an executive's business case to an engineer's eval harness in one meeting. I do both: enterprise delivery as a Senior Consultant at Capgemini Invent, and production Claude systems on my own time.",
+  "pitch_oneliner": "Week 1: shadow one enterprise evaluation, rebuild it as a reproducible eval harness on the Claude API and MCP, and hand the account team a deployment architecture the customer's own engineers can merge.",
+  "jd_match": [
+    {
+      "requirement": "Trusted technical advisor guiding enterprises from discovery through deployment",
+      "proof": "Senior Consultant at Capgemini Invent: I translate between executive business cases and engineering delivery for large organizations every week.",
+      "metric": "8y engineering + product"
+    },
+    {
+      "requirement": "Integrate Claude into an existing technology stack and move a real metric",
+      "proof": "Embedded LLMs into the live recruitment workflow at Eurofirms, a TOP-3 EU staffing firm, in the hands of 500+ recruiters.",
+      "metric": "-35% time-to-hire"
+    },
+    {
+      "requirement": "Develop evaluation frameworks and scalable LLM architectures",
+      "proof": "I run empresaAI in production: 7 agents over a file-based bus with deterministic state and guardrails, built on the Claude API and MCP.",
+      "metric": "24/7 · ~40h/week saved"
+    },
+    {
+      "requirement": "Deliver technical content from engineering deep-dives to executive conversations",
+      "proof": "ManoloBot ships and explains one Next.js app per day in public; I write for builders and executives alike.",
+      "metric": "19+ apps live"
+    }
+  ],
+  "empresaai_url": "https://github.com/Wcoach24",
+  "manolobot_url": "https://manoloelrobot.com",
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}
