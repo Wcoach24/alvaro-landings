@@ -1,0 +1,52 @@
+{
+  "slug": "perplexity-agent-capabilities",
+  "company": "Perplexity",
+  "role": "Member of Technical Staff (Software Engineer, Agent Capabilities)",
+  "job_url": "https://jobs.ashbyhq.com/perplexity/7f2b3619-5ffa-467b-be6f-7a6b7d487892",
+  "job_archetype": "ai_native_product",
+  "location": "San Francisco",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-24T14:34:00+00:00",
+  "landing_generated_at": "2026-06-24T14:46:00+00:00",
+  "build_minutes": 12,
+  "score": 10,
+  "score_breakdown": [
+    { "label": "title:lead/principal/staff/founding/head", "points": 3 },
+    { "label": "geo:US frontier lab", "points": 3 },
+    { "label": "tech:LLM/agents/RAG/voice", "points": 2 },
+    { "label": "archetype:ai_native_product", "points": 2 }
+  ],
+  "hero_headline": "Agent capabilities are only as good as the tools you give the model. I build those tools in production, every day. This page went up 12 minutes after the role posted.",
+  "hero_subline": "Comet's agents need real capabilities: typed tools, permission gates, and evals that catch a bad action before it ships. That is exactly the layer I work in. My agents call real functions over MCP, not free-text guesses, and they run unsupervised 24/7.",
+  "pitch_oneliner": "Week 1: take one capability that Comet still does in free-text, give it a typed tool contract with a permission gate and a regression eval, and ship it so the agent completes the action reliably instead of improvising it.",
+  "jd_match": [
+    {
+      "requirement": "Build and expand the capabilities (tools, actions) available to AI agents",
+      "proof": "empresaAI: 7 agents that call typed tools to read email, build a Next.js app, deploy to Vercel and publish, over a file-based bus with deterministic state.",
+      "metric": "24/7 in production"
+    },
+    {
+      "requirement": "Design tool interfaces and context engineering for frontier models",
+      "proof": "I build tools on the Claude API and MCP so agents invoke real functions with typed contracts and permission gates, not unconstrained text.",
+      "metric": "2y agents · MCP in prod"
+    },
+    {
+      "requirement": "Evals and guardrails so agents act correctly, not just plausibly",
+      "proof": "ManoloBot runs an automated QA gate (Playwright, 3 viewports, JS-syntax checks) on every app before it goes live; nothing ships unverified.",
+      "metric": "1 app/day · 19+ live"
+    },
+    {
+      "requirement": "Proficiency in Python (TypeScript a plus)",
+      "proof": "Python and TypeScript daily across empresaAI and ManoloBot; full-stack on Next.js, Vercel and Supabase end to end.",
+      "metric": "5y Python · 3y React"
+    }
+  ],
+  "empresaai_url": "https://github.com/Wcoach24",
+  "manolobot_url": "https://manoloelrobot.com",
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}
