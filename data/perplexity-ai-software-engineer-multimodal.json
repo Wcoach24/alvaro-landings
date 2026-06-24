@@ -1,0 +1,52 @@
+{
+  "slug": "perplexity-ai-software-engineer-multimodal",
+  "company": "Perplexity",
+  "role": "Member of Technical Staff (AI Software Engineer, Multimodal)",
+  "job_url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+  "job_archetype": "ai_native_product",
+  "location": "San Francisco",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-24T11:30:00+00:00",
+  "landing_generated_at": "2026-06-24T11:41:00+00:00",
+  "build_minutes": 11,
+  "score": 10,
+  "score_breakdown": [
+    { "label": "title:lead/principal/staff/founding/head", "points": 3 },
+    { "label": "geo:US frontier lab", "points": 3 },
+    { "label": "tech:LLM/agents/RAG/voice", "points": 2 },
+    { "label": "archetype:ai_native_product", "points": 2 }
+  ],
+  "hero_headline": "Multimodal is where agents stop reading and start seeing. I built this page 11 minutes after the role posted.",
+  "hero_subline": "Perplexity is turning search into an answer engine that reasons over text, images and voice at once. I ship realtime voice agents and multi-agent systems in production, not demos.",
+  "pitch_oneliner": "Week 1: take one multimodal query path, image plus text in and a cited answer out, wrap it in an eval harness, and ship a measurable latency or accuracy win on a real surface, not a notebook.",
+  "jd_match": [
+    {
+      "requirement": "Build multimodal AI features spanning text, images and voice for real users",
+      "proof": "I build realtime voice agents on the OpenAI Realtime API and run empresaAI, a 7-agent system that turns email into shipped, deployed apps over a file-based bus.",
+      "metric": "7 agents · 24/7 prod"
+    },
+    {
+      "requirement": "Own the eval loop and ship production AI with measured outcomes",
+      "proof": "I embedded LLMs into the recruiter workflow at Eurofirms (TOP-3 EU staffing) and measured the result, not the demo.",
+      "metric": "-35% TTH · 500+ users"
+    },
+    {
+      "requirement": "Strong Python with TypeScript and comfort across the full stack",
+      "proof": "Python and TypeScript daily across empresaAI and ManoloBot; Next.js, Vercel and Supabase end to end.",
+      "metric": "5y Python · 3y React"
+    },
+    {
+      "requirement": "Move fast from prototype to production",
+      "proof": "ManoloBot ships one Next.js app per day from follower ideas, each deployed to Vercel and validated with Playwright before it goes live.",
+      "metric": "1 app/day · 19+ live"
+    }
+  ],
+  "empresaai_url": "https://github.com/Wcoach24",
+  "manolobot_url": "https://manoloelrobot.com",
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}
