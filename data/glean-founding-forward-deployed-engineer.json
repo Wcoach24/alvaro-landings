@@ -1,0 +1,52 @@
+{
+  "slug": "glean-founding-forward-deployed-engineer",
+  "company": "Glean",
+  "role": "Founding Forward Deployed Engineer",
+  "job_url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651991005",
+  "job_archetype": "ai_native_product",
+  "location": "Remote - US",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-25T11:33:30+00:00",
+  "landing_generated_at": "2026-06-25T11:42:00+00:00",
+  "build_minutes": 8,
+  "score": 9,
+  "score_breakdown": [
+    { "label": "title:founding/forward-deployed", "points": 3 },
+    { "label": "geo:US remote", "points": 3 },
+    { "label": "tech:agents/enterprise AI", "points": 1 },
+    { "label": "archetype:ai_native_product", "points": 2 }
+  ],
+  "hero_headline": "Founding Forward Deployed Engineer is my exact archetype. I built this page 8 minutes after the role posted.",
+  "hero_subline": "Glean turns enterprise knowledge into agents that do real work. Founding FDE is consulting-grade client embedding plus 0-to-1 building, which is the pair I already run.",
+  "pitch_oneliner": "Week 1: shadow one strategic customer's C-suite pod, find the highest-value unsolved workflow, and ship a 0-to-1 agent on Glean's graph that does the task, with an eval the customer's own engineers can own.",
+  "jd_match": [
+    {
+      "requirement": "Founding member operating with the autonomy and accountability of a founder",
+      "proof": "I run empresaAI solo: a 7-agent autonomous system in 24/7 production, owned end to end over a file-based bus with deterministic state.",
+      "metric": "~40h/week saved"
+    },
+    {
+      "requirement": "0-to-1 product creation: find the biggest unsolved problems at strategic customers and build new products",
+      "proof": "Eurofirms (TOP-3 EU staffing): I built an LLM recruitment system from scratch and put it in the hands of 500+ recruiters.",
+      "metric": "-35% time-to-hire"
+    },
+    {
+      "requirement": "Work in a pod directly with the C-suite of the world's most influential companies",
+      "proof": "Senior Consultant at Capgemini Invent: I translate executive business cases into shipped engineering delivery for large organizations weekly.",
+      "metric": "8y eng + product"
+    },
+    {
+      "requirement": "Ship agentic capabilities with the craft required for enterprise trust",
+      "proof": "ManoloBot ships and deploys one Next.js app per day in public, with guardrails and graceful degradation when a dependency fails.",
+      "metric": "19+ apps live"
+    }
+  ],
+  "empresaai_url": null,
+  "manolobot_url": null,
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}

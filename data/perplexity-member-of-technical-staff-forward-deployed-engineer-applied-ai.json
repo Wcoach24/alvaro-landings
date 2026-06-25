@@ -1,0 +1,52 @@
+{
+  "slug": "perplexity-member-of-technical-staff-forward-deployed-engineer-applied-ai",
+  "company": "Perplexity",
+  "role": "Member of Technical Staff (Forward Deployed Engineer, Applied AI)",
+  "job_url": "https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee",
+  "job_archetype": "ai_native_product",
+  "location": "New York City",
+  "hiring_manager": null,
+  "jd_seen_at": "2026-06-25T11:33:30+00:00",
+  "landing_generated_at": "2026-06-25T11:41:30+00:00",
+  "build_minutes": 8,
+  "score": 9,
+  "score_breakdown": [
+    { "label": "title:forward-deployed/applied-ai", "points": 2 },
+    { "label": "geo:US frontier / NYC", "points": 3 },
+    { "label": "tech:LLM/agents/RAG", "points": 2 },
+    { "label": "archetype:ai_native_product", "points": 2 }
+  ],
+  "hero_headline": "Forward Deployed Engineer, Applied AI, is the job I already run. I built this page 8 minutes after it posted.",
+  "hero_subline": "Perplexity is turning search into tasks that get done, and forward-deployed is where that meets a real customer. I embed with the user, ship the applied-AI system, and move one metric.",
+  "pitch_oneliner": "Week 1: sit with one enterprise user of Perplexity's API, rebuild their highest-friction workflow as an agent that acts (browse, retrieve, do), and hand back a working eval harness, not a deck.",
+  "jd_match": [
+    {
+      "requirement": "Embed directly with customers and ship applied-AI solutions end to end",
+      "proof": "Eurofirms (TOP-3 EU staffing): I embedded LLMs into a live recruitment workflow in the hands of 500+ recruiters, from discovery to production.",
+      "metric": "-35% time-to-hire"
+    },
+    {
+      "requirement": "Build agentic systems that complete multi-step tasks, not chatbots that talk",
+      "proof": "empresaAI runs in production: 7 specialized agents over a file-based bus with deterministic state and guardrails so they act, not chat.",
+      "metric": "~40h/week saved, 24/7"
+    },
+    {
+      "requirement": "Move from a business problem to a shipped product in weeks, not quarters",
+      "proof": "ManoloBot (manoloelrobot.com) builds and deploys one Next.js app per day, end to end and in public.",
+      "metric": "19+ apps live"
+    },
+    {
+      "requirement": "Translate between an executive's business case and an engineer's delivery",
+      "proof": "Senior Consultant at Capgemini Invent and former Head of Product at Olyverse (Geneva, 50k+ users): I sit on both sides every week.",
+      "metric": "8y eng + product"
+    }
+  ],
+  "empresaai_url": null,
+  "manolobot_url": null,
+  "show_empresaai": true,
+  "show_manolobot": true,
+  "cal_link": null,
+  "cv_filename": "cv_en.pdf",
+  "source_repo": "https://github.com/Wcoach24/alvaro-landings",
+  "generator_version": "JobHunter v2.1"
+}
